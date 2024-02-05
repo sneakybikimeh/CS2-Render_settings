@@ -31,7 +31,7 @@ For example :
 The GUI stores the current values in memory for the toggle command, so if you turn off viewmodel with "render_viewmodel_off", it takes only one usage of "render_drawviewmodel" to bring it back on.
 
 - Type helprender or renderhelp to display the GUI in order to see the current status of the vars.
-- Type render_reset to reset the GUI to its default setup.
+- Type render_reset to reset the GUI and its command to default setup.
 
 - If you change map, the GUI will not remember previous changes, so you will need to "render_reset" since the render convars will not be updated.
 - The GUI will not keep in memory any var that is changed manually in the console.
