@@ -20,7 +20,7 @@ This render_settings.cfg file lets you tweak the main render settings of CS2 thr
  
 - A self explanatory documentation will be displayed into the GUI in your console under this format :
 
-VARS (STATUS) | ToggleCmd / ToggleOnCmd / ToggleOffCmd
+    VARS (STATUS) | ToggleCmd / ToggleOnCmd / ToggleOffCmd
 
 For example :
 - Toggle Viewmodel Rendering ON and OFF by simply hitting the key bound to "render_drawviewmodel".
