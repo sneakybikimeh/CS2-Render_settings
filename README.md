@@ -33,5 +33,5 @@ The GUI stores the current values in memory for the toggle command, so if you tu
 - Type helprender or renderhelp to display the GUI in order to see the current status of the vars.
 - Type render_reset to reset the GUI to its default setup.
 
-- If you change map, the GUI will not remember previous changes, so you will need to "exec render_settings.cfg" since the render convars will not be updated.
+- If you change map, the GUI will not remember previous changes, so you will need to "render_reset" since the render convars will not be updated.
 - The GUI will not keep in memory any var that is changed manually in the console.
