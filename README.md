@@ -23,15 +23,14 @@ This render_settings.cfg file lets you tweak the main render settings of CS2 thr
 VARS (STATUS) | ToggleCmd / ToggleOnCmd / ToggleOffCmd
 
 For example :
-- Toggle Viewmodel Rendering ON and OFF by simply typing "render_drawviewmodel" in your console.
-- Toggle Viewmodel Rendering ON by simply typing "render_viewmodel_on" in your console.
-- Toggle Viewmodel Rendering OFF by simply typing "render_viewmodel_off" in your console
+- Toggle Viewmodel Rendering ON and OFF by simply hitting the key bound to "render_drawviewmodel".
+- Toggle Viewmodel Rendering ON by simply hitting the key bound to "render_viewmodel_on".
+- Toggle Viewmodel Rendering OFF by simply hitting the key bound to "render_viewmodel_off".
 
 The GUI stores the current values in memory for the toggle command, so if you turn off viewmodel with "render_viewmodel_off", it takes only one usage of "render_drawviewmodel" to bring it back on.
 
 - Type helprender or renderhelp to display the GUI in order to see the current status of the vars.
 - Type render_reset to reset the GUI to its default setup.
-
 
 - If you change map, the GUI will not remember previous changes, so you will need to "exec render_settings.cfg" since the render convars will not be updated.
 - The GUI will not keep in memory any var that is changed manually in the console.
