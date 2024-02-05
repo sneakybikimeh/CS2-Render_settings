@@ -8,8 +8,9 @@ This render_settings.cfg file lets you tweak the main render settings of CS2 thr
 - By default, ENTER will be bound to display the GUI, and BACKSPACE will reset the vars to their default values. 
 
 # Installation
-1. Open the archive and extract its content into the following path folder : 
-"...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\"
+1. Open the archive and extract its content into the following path folder :
+
+        "...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\"
 
 2. Launch the game (Workshop Tool Build), boot up a practice server where you can turn on sv_cheats 1 and type in the console the following command: "exec render_settings.cfg".
 
