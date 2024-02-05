@@ -19,6 +19,7 @@ This render_settings.cfg file lets you tweak the main render settings of CS2 thr
 - A set of bindings using kp_keys is commented, feel free to remove the "//" in that specific section.
  
 - A self explanatory documentation will be displayed into the GUI in your console under this format :
+
 VARS (STATUS) | ToggleCmd / ToggleOnCmd / ToggleOffCmd
 
 For example :
