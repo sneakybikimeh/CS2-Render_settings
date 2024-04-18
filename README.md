@@ -3,7 +3,7 @@ This `render_settings.cfg` file lets you tweak the main render settings of CS2 t
 
 ## WARNING
 - If you don't understand what this config does, you probably shouldn't use it !
-- The settings used in that file will only apply on the Workshop Tool Build of CS2 atm.
+- The settings used in that file will only apply on the `Workshop Tool Build` of CS2 atm.
 - It is currently impossible to use aliases through the console on that specific build, so you will have to bind the commands listed on the interface, or ask valve to fix that issue.
 - By default, ENTER will be bound to display the GUI, and BACKSPACE will reset the vars to their default values. 
 
